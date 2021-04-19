@@ -1,5 +1,5 @@
 
-## Hi there Mizogaki Proflie👋
+## Hi I'm Mizogaki 👋
 
 - Fleelance && Seasoned Consultant && Developer && Designer
 - Job change from a pachinko parlor to a programmer.
