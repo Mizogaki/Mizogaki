@@ -10,11 +10,3 @@
 
 ## Mizogaki Github Stats
 ![image](https://github-readme-stats.vercel.app/api?username=Mizogaki&count_private=true&show_icons=true&theme=tokyonight&=anuraghazra&include_all_commits=true&hide=contribs,prs&hide_title=true)
-
-## Mizogaki Github Most Used languages
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizogaki&show_icons=true&theme=tokyonight&=anuraghazra&include_all_commits=true&langs_count=8&hide_title=true)
-
-
-
-
-
