@@ -17,4 +17,4 @@
 
 |Github Stats|Top Lang|Productive Time|
 |:---:|:---:|:---:|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizogaki&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizogaki&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizogaki&theme=dracula)|
+|![](https://github-readme-stats.vercel.app/api?username=mizogaki&show_icons=true&theme=omni)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizogaki&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizogaki&theme=dracula)|
