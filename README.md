@@ -1,4 +1,5 @@
-![Top](https://user-images.githubusercontent.com/11548811/172978873-ad01e0f6-05d8-4539-b9ec-34b24248cf07.png)
+![Top](https://user-images.githubusercontent.com/11548811/172980452-f2ed20d6-a763-462d-933b-6bd299207dbc.png)
+
 
 - Fleelance && Seasoned Consultant && Developer && Designer
 - Job change from a pachinko parlor to a programmer.
