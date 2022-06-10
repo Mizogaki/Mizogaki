@@ -1,5 +1,4 @@
-![jirettai](https://user-images.githubusercontent.com/11548811/172976092-0d0a7b5e-864f-4fea-bc39-f66c1be4a8cf.png)
-![pro](https://user-images.githubusercontent.com/11548811/172976101-d7507cde-b31e-4da8-b9e3-2466142f90ff.png)
+![Top](https://user-images.githubusercontent.com/11548811/172978873-ad01e0f6-05d8-4539-b9ec-34b24248cf07.png)
 
 - Fleelance && Seasoned Consultant && Developer && Designer
 - Job change from a pachinko parlor to a programmer.
