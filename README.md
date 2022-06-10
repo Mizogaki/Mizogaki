@@ -5,8 +5,7 @@
 - Job change from a pachinko parlor to a programmer.
 - Currently, I am supporting companies as a tech consultant.
 - Here are some ideas to get you started: 🔭 I’m currently working on ...
-- On [LinkedIn](https://www.linkedin.com/in/miz![Uploading jirettai.new @1x.png…]()
-ogaki/)
+- On [LinkedIn](https://www.linkedin.com/in/mizogaki/)
 
 
 </details>
