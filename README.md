@@ -15,6 +15,6 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizogaki&theme=dracula) |![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizogaki&theme=dracula)| -->
 
 
-|Github Stats|Top Lang|Productive Time|
+<!-- |Github Stats|Top Lang|Productive Time|
 |:---:|:---:|:---:|
-|![](https://github-readme-stats.vercel.app/api?username=Mizogaki&count_private=true&&show_icons=true&theme=omni&=anuraghazra&include_all_commits=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizogaki&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizogaki&theme=dracula)|
+|![](https://github-readme-stats.vercel.app/api?username=Mizogaki&count_private=true&&show_icons=true&theme=omni&=anuraghazra&include_all_commits=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizogaki&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizogaki&theme=dracula)| -->
